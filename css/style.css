@@ -1,0 +1,267 @@
+.container {
+    width: 1320px;
+    margin: 0 auto;  
+}
+.center{
+    text-align: center;
+}
+.top-img{
+    width: 42%;
+}
+.main-heading{
+    text-align: center;
+}
+.sub-head{
+    font-size: 22px;
+    text-align: center;
+}
+.special-text{
+    color: #0ea2bd;
+}
+.btn-section{
+    text-align: center;
+}
+.get-btn{
+    padding: 9px 20px;
+    background-color: #0ea2bd;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+.nav-list li{
+    float: left;
+    list-style: none;
+    margin-left: 30px;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+} 
+.nav-list{
+    float: right;
+    margin: 30px;
+}
+.logo{
+    float: left;
+}
+.link{
+    text-decoration: none;
+    color: rgb(77, 72, 72);
+    font-size: 20px;
+    padding-left: 20px;
+}
+a:link {
+    color: green;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+a:hover   {
+    color: #00a4b9;
+    text-decoration: none;
+  }
+  a:active {
+    color: #00a4b9;
+   text-decoration: underline;
+}
+.card{
+      width: 19%;
+      float: left;
+      padding: 34px;
+  }
+.card-icon{
+    color: #00a4b9;
+    font-size: 50px!important;
+    padding: 5px 50px;
+}
+.clearfix::after {
+    content: " "; /* Older browser do not support empty content */
+    visibility: hidden;
+    display: block;        height: 0;
+    clear: both;
+} 
+.clearfix::after {
+       content: "";
+       display: table;
+       clear: both;
+}
+.about-us {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #00a4b9;
+    font-size: 25px;
+    }
+ .details{
+    text-align: center;
+    font-size: 18px;
+    margin: 5px 5px 5px 5px;
+}
+.bottom-image{
+    width: 40%;
+    float: left;
+} 
+.image1{
+    width: 450px;
+    height: 550px;
+    margin: 30px
+}   
+.image-text{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: dimgray;
+    width: 60%;
+    overflow: hidden;
+}    
+.sub-list li{
+    list-style: none;
+    float: left;
+    margin: 0px 80px;
+    font-size: 20px;
+}  
+.logos{
+    overflow: hidden
+}
+img{
+    width: 100%;
+}
+.sub-logo{
+    width: 125px;
+    float: left;
+    padding: 47px;
+    overflow: hidden
+}
+.gray{
+    background-color: rgb(209, 209, 209);
+    font-size: 20px;
+    border-radius: 15px;
+}
+.img-phone{
+    width: 200px;
+    width: 30%;
+    margin: 20px;
+    border-radius: 15px;
+}
+.gray-text{
+    float: left;
+    width: 60%;
+    margin: 40px
+}
+.gray-btn{
+    padding: 10px 40px;
+    border-radius: 10px;
+    background-color: gray;
+}
+.img-work{
+    width: 45%;
+    margin: 25px;
+    float: left;  
+}
+.blue-text{
+    width: 44%;
+    padding: 30px;
+    overflow: hidden;
+}
+.blue-btn{
+    margin: 18px;
+    padding: 10px 40px;
+    border-radius: 10px;
+    background-color: #00c3ff;
+}
+.work-content{
+    margin-top: 80px;
+    background-color: #00a4b9;
+    padding: 30px;
+    border-radius: 20px;
+}
+.focus-img{
+    margin-top: 80px;
+    height: 500px;
+    margin-bottom: 80px;
+}
+.left-img{
+    width: 50%;
+    float: left;
+    /* opacity: 50%; */
+    position: relative;
+}
+.right-img{
+    width: 50%;
+}
+   
+.play-btn{
+    position: absolute;
+    left: 330px;
+    margin-top: 230px;
+    width: 80px;
+    height: 80px;
+    background-color: #00c3ff;
+    border: none;
+    border-radius: 50px;
+}
+.pause{
+    font-size: 20px!important;
+    color: #fcfcfc;
+    padding-left: 5px;
+    
+}
+.pause:hover{
+    color: #00c3ff;
+    background-color: #fcfcfc;
+}
+.play-btn:hover{
+    color: #00c3ff;
+    background-color: #fcfcfc;
+}
+.right-img-txt{
+    position: absolute;
+    margin-bottom: 0px;
+    margin-top: 100px;
+    left: 800px;
+    color: white;   
+}
+
+    
+}
+.stickers{
+    overflow: hidden;
+}
+.stickers i{
+    list-style: none;
+    font-size: 30px;
+    padding:20px 45px;
+    margin: 0px 25px;
+    background-color: #00a4b9;
+    border-radius: 10px;
+    color: #fff;
+    text-align: center;
+}
+.stickers i:hover{
+    background-color: #fff;
+    /* color: #00a4b9; */
+}
+.menu{
+    margin-top: 8px;
+    font-size: 20px;
+    color: black;
+
+}
+.a1:hover{
+    color: crimson;
+}
+.a2:hover{
+    color: darkgreen;
+}
+.a3:hover{
+    color: darkorange;
+}
+.a4:hover{
+    color: rgb(128, 32, 218);
+}
+.a5:hover{
+    color: darkgoldenrod;
+}
+.a6:hover{
+    color: olive;
+}
